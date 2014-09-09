@@ -1,0 +1,4 @@
+*.o
+main
+# Stupid mac
+*.dSYM
