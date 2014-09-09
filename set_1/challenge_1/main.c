@@ -18,9 +18,9 @@ main(int argc, char *argv[])
 	char *b = "Ma";
 	char *c = "M";
 	char *words =
-		"Man is distinguished, not only by his reason, but by this singular passion from"
-		"other animals, which is a lust of the mind, that by a perseverance of delight"
-		"in the continued and indefatigable generation of knowledge, exceeds the short"
+		"Man is distinguished, not only by his reason, but by this singular passion from "
+		"other animals, which is a lust of the mind, that by a perseverance of delight "
+		"in the continued and indefatigable generation of knowledge, exceeds the short "
 		"vehemence of any carnal pleasure.";
 	uint32_t len;
 	char *s;
